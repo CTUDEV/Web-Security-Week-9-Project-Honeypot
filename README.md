@@ -12,6 +12,8 @@ Number of attacks: 272
 
 I have seen a number of different protocols such as: TCP, UDP.
 
+The screenshot of payloads with some signatures is uploaded. Examples of signatures:ET COMPROMISED Known Compromised or Hostile Host Traffic TCP group 5, ET CINS Active Threat Intelligence Poor Reputation IP TCP group 5 etc. 
+
 ## Cowrie:
 
 Number of attacks: 0
